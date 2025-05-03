@@ -1,4 +1,4 @@
-# 🧠 Kidney Stone Prediction Web App
+# 🧠 Kidney Stone Prediction using ML and Deep Learning with Model Deployment on Web using Streamlit Cloud
 
 ## 🔍 Overview
 
